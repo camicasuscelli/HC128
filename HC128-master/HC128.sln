@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HC128.Desktop", "HC128.Desktop\HC128.Desktop.csproj", "{52C81E0F-4A20-4D85-9A54-3FE905469CA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HC128.Api", "HC128Api\HC128.Api.csproj", "{C8FB8861-B7D4-4CEC-AC50-E5719B4B62A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C81E0F-4A20-4D85-9A54-3FE905469CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C81E0F-4A20-4D85-9A54-3FE905469CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C81E0F-4A20-4D85-9A54-3FE905469CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C81E0F-4A20-4D85-9A54-3FE905469CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FB8861-B7D4-4CEC-AC50-E5719B4B62A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FB8861-B7D4-4CEC-AC50-E5719B4B62A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FB8861-B7D4-4CEC-AC50-E5719B4B62A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FB8861-B7D4-4CEC-AC50-E5719B4B62A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF0BF3E1-3EA2-48ED-A9F7-190815328535}
+	EndGlobalSection
+EndGlobal
